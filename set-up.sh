@@ -14,4 +14,4 @@ sudo apt install vim
 
 
 echo " all done ^_^"
-echo " have nice day ^_" "
+echo " have nice day ^_"
